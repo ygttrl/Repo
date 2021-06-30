@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DorukProje.DataAccess/1.0.0": {
+        "dependencies": {
+          "DorukProje.Entities": "1.0.0",
+          "DorukProje.FakeDB": "1.0.0"
+        },
+        "runtime": {
+          "DorukProje.DataAccess.dll": {}
+        }
+      },
+      "DorukProje.Entities/1.0.0": {
+        "runtime": {
+          "DorukProje.Entities.dll": {}
+        }
+      },
+      "DorukProje.FakeDB/1.0.0": {
+        "dependencies": {
+          "DorukProje.Entities": "1.0.0"
+        },
+        "runtime": {
+          "DorukProje.FakeDB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DorukProje.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DorukProje.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DorukProje.FakeDB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

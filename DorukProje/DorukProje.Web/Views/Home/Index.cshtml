@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <script src="~/ng.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body ng-app="uygulama" ng-controller="emirCtrl">
+
+ 
+
+    <h1> Duruş Listesi </h1>
+    <table border="1">
+        <tr ng-repeat="x in durusListesi">
+            <td>{{x.durusTip}}</td>
+            <td>{{x.durusBaslangic}}</td>
+            <td>{{x.durusBitis}}</td>
+            <td>{{x.durusZamani}}</td>
+        </tr>
+    </table>
+
+</body>
+</html>
+

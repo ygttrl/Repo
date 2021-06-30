@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DorukProje.Entities\DorukProje.Entities.csproj" />
+    <ProjectReference Include="..\DorukProje.FakeDB\DorukProje.FakeDB.csproj" />
+  </ItemGroup>
+
+</Project>

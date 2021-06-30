@@ -1,0 +1,169 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        }
+      },
+      "DorukProje.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DorukProje.Entities": "1.0.0",
+          "DorukProje.FakeDB": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DorukProje.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DorukProje.DataAccess.dll": {}
+        }
+      },
+      "DorukProje.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DorukProje.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DorukProje.Entities.dll": {}
+        }
+      },
+      "DorukProje.FakeDB/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DorukProje.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DorukProje.FakeDB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DorukProje.FakeDB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
+      "sha512": "ORj7Zh81gC69TyvmcUm9tSzytcy8AVousi+IVRAI8nLieQjOFryRusSFh7+aLk16FN9pQNqJAiMd7BTKINK0kA==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "DorukProje.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../DorukProje.DataAccess/DorukProje.DataAccess.csproj",
+      "msbuildProject": "../DorukProje.DataAccess/DorukProje.DataAccess.csproj"
+    },
+    "DorukProje.Entities/1.0.0": {
+      "type": "project",
+      "path": "../DorukProje.Entities/DorukProje.Entities.csproj",
+      "msbuildProject": "../DorukProje.Entities/DorukProje.Entities.csproj"
+    },
+    "DorukProje.FakeDB/1.0.0": {
+      "type": "project",
+      "path": "../DorukProje.FakeDB/DorukProje.FakeDB.csproj",
+      "msbuildProject": "../DorukProje.FakeDB/DorukProje.FakeDB.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DorukProje.DataAccess >= 1.0.0",
+      "DorukProje.Entities >= 1.0.0",
+      "Microsoft.Extensions.DependencyInjection.Abstractions >= 5.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Yigit-Tirali\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Business\\DorukProje.Business.csproj",
+      "projectName": "DorukProje.Business",
+      "projectPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Business\\DorukProje.Business.csproj",
+      "packagesPath": "C:\\Users\\Yigit-Tirali\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Business\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Yigit-Tirali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.DataAccess\\DorukProje.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.DataAccess\\DorukProje.DataAccess.csproj"
+            },
+            "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Entities\\DorukProje.Entities.csproj": {
+              "projectPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Entities\\DorukProje.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.Entities\bin\Debug\netcoreapp3.1\DorukProje.Entities.deps.json
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.Entities\bin\Debug\netcoreapp3.1\DorukProje.Entities.dll
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.Entities\bin\Debug\netcoreapp3.1\DorukProje.Entities.pdb
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.Entities\obj\Debug\netcoreapp3.1\DorukProje.Entities.AssemblyInfoInputs.cache
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.Entities\obj\Debug\netcoreapp3.1\DorukProje.Entities.AssemblyInfo.cs
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.Entities\obj\Debug\netcoreapp3.1\DorukProje.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.Entities\obj\Debug\netcoreapp3.1\DorukProje.Entities.dll
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.Entities\obj\Debug\netcoreapp3.1\DorukProje.Entities.pdb
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.Entities\obj\Debug\netcoreapp3.1\DorukProje.Entities.csprojAssemblyReference.cache

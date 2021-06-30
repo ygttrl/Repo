@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KGlfWH8hldTG0XFHjhwb30DoIHLoOCGKXYbMLKTrRTfGo3YyCdpblTUhIatgnU7C/qmeVAEyPqb/z1ZSiu87dQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.WebApi\\DorukProje.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yigit-Tirali\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.4\\microsoft.aspnetcore.jsonpatch.3.1.4.nupkg.sha512",
+    "C:\\Users\\Yigit-Tirali\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.4\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.4.nupkg.sha512",
+    "C:\\Users\\Yigit-Tirali\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Yigit-Tirali\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Yigit-Tirali\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Yigit-Tirali\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

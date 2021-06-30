@@ -1,0 +1,320 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.WebApi\\DorukProje.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Business\\DorukProje.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Business\\DorukProje.Business.csproj",
+        "projectName": "DorukProje.Business",
+        "projectPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Business\\DorukProje.Business.csproj",
+        "packagesPath": "C:\\Users\\Yigit-Tirali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yigit-Tirali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.DataAccess\\DorukProje.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.DataAccess\\DorukProje.DataAccess.csproj"
+              },
+              "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Entities\\DorukProje.Entities.csproj": {
+                "projectPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Entities\\DorukProje.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.DataAccess\\DorukProje.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.DataAccess\\DorukProje.DataAccess.csproj",
+        "projectName": "DorukProje.DataAccess",
+        "projectPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.DataAccess\\DorukProje.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Yigit-Tirali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yigit-Tirali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Entities\\DorukProje.Entities.csproj": {
+                "projectPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Entities\\DorukProje.Entities.csproj"
+              },
+              "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.FakeDB\\DorukProje.FakeDB.csproj": {
+                "projectPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.FakeDB\\DorukProje.FakeDB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Entities\\DorukProje.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Entities\\DorukProje.Entities.csproj",
+        "projectName": "DorukProje.Entities",
+        "projectPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Entities\\DorukProje.Entities.csproj",
+        "packagesPath": "C:\\Users\\Yigit-Tirali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yigit-Tirali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.FakeDB\\DorukProje.FakeDB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.FakeDB\\DorukProje.FakeDB.csproj",
+        "projectName": "DorukProje.FakeDB",
+        "projectPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.FakeDB\\DorukProje.FakeDB.csproj",
+        "packagesPath": "C:\\Users\\Yigit-Tirali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.FakeDB\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yigit-Tirali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Entities\\DorukProje.Entities.csproj": {
+                "projectPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Entities\\DorukProje.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.WebApi\\DorukProje.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.WebApi\\DorukProje.WebApi.csproj",
+        "projectName": "DorukProje.WebApi",
+        "projectPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.WebApi\\DorukProje.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Yigit-Tirali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yigit-Tirali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Business\\DorukProje.Business.csproj": {
+                "projectPath": "C:\\Users\\Yigit-Tirali\\Desktop\\DorukProje\\DorukProje.Business\\DorukProje.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

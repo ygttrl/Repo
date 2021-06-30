@@ -1,0 +1,12 @@
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.FakeDB\bin\Debug\netcoreapp3.1\DorukProje.FakeDB.deps.json
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.FakeDB\bin\Debug\netcoreapp3.1\DorukProje.FakeDB.dll
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.FakeDB\bin\Debug\netcoreapp3.1\DorukProje.FakeDB.pdb
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.FakeDB\bin\Debug\netcoreapp3.1\DorukProje.Entities.dll
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.FakeDB\bin\Debug\netcoreapp3.1\DorukProje.Entities.pdb
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.FakeDB\obj\Debug\netcoreapp3.1\DorukProje.FakeDB.csprojAssemblyReference.cache
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.FakeDB\obj\Debug\netcoreapp3.1\DorukProje.FakeDB.AssemblyInfoInputs.cache
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.FakeDB\obj\Debug\netcoreapp3.1\DorukProje.FakeDB.AssemblyInfo.cs
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.FakeDB\obj\Debug\netcoreapp3.1\DorukProje.FakeDB.csproj.CoreCompileInputs.cache
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.FakeDB\obj\Debug\netcoreapp3.1\DorukProje.FakeDB.csproj.CopyComplete
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.FakeDB\obj\Debug\netcoreapp3.1\DorukProje.FakeDB.dll
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.FakeDB\obj\Debug\netcoreapp3.1\DorukProje.FakeDB.pdb

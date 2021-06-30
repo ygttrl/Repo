@@ -1,0 +1,14 @@
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.DataAccess\bin\Debug\netcoreapp3.1\DorukProje.DataAccess.deps.json
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.DataAccess\bin\Debug\netcoreapp3.1\DorukProje.DataAccess.dll
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.DataAccess\bin\Debug\netcoreapp3.1\DorukProje.DataAccess.pdb
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.DataAccess\bin\Debug\netcoreapp3.1\DorukProje.Entities.dll
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.DataAccess\bin\Debug\netcoreapp3.1\DorukProje.FakeDB.dll
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.DataAccess\bin\Debug\netcoreapp3.1\DorukProje.Entities.pdb
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.DataAccess\bin\Debug\netcoreapp3.1\DorukProje.FakeDB.pdb
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.DataAccess\obj\Debug\netcoreapp3.1\DorukProje.DataAccess.csprojAssemblyReference.cache
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.DataAccess\obj\Debug\netcoreapp3.1\DorukProje.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.DataAccess\obj\Debug\netcoreapp3.1\DorukProje.DataAccess.AssemblyInfo.cs
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.DataAccess\obj\Debug\netcoreapp3.1\DorukProje.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.DataAccess\obj\Debug\netcoreapp3.1\DorukProje.DataAccess.csproj.CopyComplete
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.DataAccess\obj\Debug\netcoreapp3.1\DorukProje.DataAccess.dll
+C:\Users\Yigit-Tirali\source\repos\DorukProje\DorukProje.DataAccess\obj\Debug\netcoreapp3.1\DorukProje.DataAccess.pdb
